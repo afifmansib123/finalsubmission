@@ -1,7 +1,8 @@
 import React from 'react';
 import { useState, useRef, useEffect } from "react";
 import { Container, Row, Col, Form, Button } from "react-bootstrap";
-import jsonData from './cs-2019.json';
+import jsonData from '../data/cs-2019.json';
+
 import useLocalStorage from 'react-localstorage-hook'
 
 

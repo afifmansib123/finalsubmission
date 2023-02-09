@@ -14,7 +14,7 @@ import { Tabs, Tab} from 'react-bootstrap';
 import GPAForm from './calculateGPAForm.js';
 import useLocalStorage from 'react-localstorage-hook';
 
-import SemesterTable from './semesterTable';
+import SemesterTable from './semesterTable.js';
 
 
 

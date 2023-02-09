@@ -5,7 +5,8 @@ import { useState, useRef, useEffect } from "react";
 import GPAForm from './calculateGPAForm';
 import useLocalStorage from 'react-localstorage-hook';
 import { Container, Row, Col, Form, Button,Table,Card } from "react-bootstrap";
-import jsonData from './cs-2019.json';
+import jsonData from '../data/cs-2019.json';
+
 
 import { BsXCircleFill } from "react-icons/bs";;
 
